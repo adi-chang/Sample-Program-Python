@@ -63,3 +63,6 @@ Bilangan – 1 ? 15
 Bilangan – 2 ? 25
 >>> FPB Dari Bilangan 15 dan 25 adalah 5
 </pre>
+
+<h2><u>kasus-4</u></h2>
+buat sample program penggunaan array pada python. simulasikan sebuah program yang bisa merandom n buah elemen data bertipe int (range nilai acak antara 1 - 100). dan 2 <= n <= 100. program kemudian dapat menampilkan elemen - elemen data hasil random tersebut. sekaligus menampilkan total jumlah dari keseluruhan elemen data yang ada.
