@@ -44,7 +44,8 @@ else:
     # Menghitung banyak karakter huruf (a-z) pada data nama anda, spasi tidak ikut dihitung
     panjang_nama = len(nama.replace(' ', ''))
 
-    print('Hasil Analisa:')
+    print('\nHasil Analisa:')
+    print('--------------')
     print(f'Banyak karakter pada nim anda               = {panjang_nim:3} karakter')
     print(f'Banyak karakter angka ganjil                = {hitung_ganjil:3} karakter')
     print(f'Banyak karakter angka genap                 = {hitung_genap:3} karakter')
