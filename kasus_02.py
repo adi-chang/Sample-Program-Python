@@ -34,5 +34,6 @@ while True:
         if ulang in ('y', 'n'):
             break
     if ulang == 'n':
+        os.system('cls')
         break
     
